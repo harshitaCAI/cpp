@@ -4,7 +4,7 @@ int main(){
    int n;
    cin>>n;
    for(int i=1; i<n; i++){
-     cout<<i<<" ";
+     cout<<"I am "<<i<<"\n ";
    }
    return 0;
 }
