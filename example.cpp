@@ -6,6 +6,7 @@ int main(){
    for(int i=1; i<n; i++){
      cout<<"I am "<<i<<"\n ";
    }
+   cout<<"TEST";
    return 0;
 }
 
